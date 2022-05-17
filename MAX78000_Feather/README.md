@@ -59,7 +59,7 @@ The MAX78000FTHR has an integrated MAX32625PICO ("PICO") debug adapter.  The fir
 
     <img src="img/MAINTENANCE.jpg" alt="Maintenance Drive Image" width="400"/>
 
-    <img src="img/FTHR_drag_and_drop.JPG" alt="Drag and Drop" width="400"/>
+    <img src="img/FTHR_drag_and_drop.jpg" alt="Drag and Drop" width="400"/>
 
     <img src="img/pico_flashing.JPG" alt="Flashing" width="400"/>
 
